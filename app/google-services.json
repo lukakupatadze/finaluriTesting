@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359278464902",
+    "project_id": "filmebifinaluri",
+    "storage_bucket": "filmebifinaluri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359278464902:android:fce8479e1a258466222607",
+        "android_client_info": {
+          "package_name": "com.example.finaluritesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359278464902-d1bhaj6eeheeerg9kt83iqvoabdrs6o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAttM7lQ3I11JnCAWWNDCvVqujHs2SifV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359278464902-d1bhaj6eeheeerg9kt83iqvoabdrs6o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
